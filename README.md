@@ -1,4 +1,4 @@
 # login
 javaFx版本登录界面
-![image]()
+![image](https://github.com/xzYuann/login/blob/master/src/sample/image.png)
 ![image]()
